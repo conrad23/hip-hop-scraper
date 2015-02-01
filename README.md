@@ -1,4 +1,12 @@
 # hip-hop-scraper
 [Personal] Determines if any specified hip hop artists have released any new content.
 
-Running Scraper.java requires creation/alteration of the files "favoriteArtists.txt" and "similarArtists.txt". Artists names should be lowercase and seperated with a "/".
+New changes:
+
+-Moved outside the main method
+
+-Only uses 1 text file
+
+-Allows ability to input any text file name
+
+-Simple GUI to display information
